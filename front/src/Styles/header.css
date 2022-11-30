@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+li ,a{
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+}
+
+header{
+    background:#0F172A;
+}
