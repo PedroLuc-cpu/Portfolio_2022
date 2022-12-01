@@ -10,7 +10,7 @@ function App() {
    <>
       <Header/>
       <Sobreme/>
-      <Conhecimentos texto="Pedro Lucas"/>
+      <Conhecimentos/>
       <Contato/>
       <Footer/>
       
