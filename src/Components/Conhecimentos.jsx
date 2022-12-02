@@ -1,6 +1,6 @@
 import '../Styles/skill.css';
 
-const Conhecimentos = (pops) =>{
+const Conhecimentos = () =>{
     return(
         <section className="py-40 text-center text-sky-50 text-3xl font-semibold ">
             <h3 className='mt-5'>Minhas Skill e Certificados</h3>

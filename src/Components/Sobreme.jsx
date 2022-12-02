@@ -2,12 +2,12 @@
 
 const Sobreme = () =>{
     return(
-    <section class="bg-slate-200 pt-32">
-    <div class="mx-auto max-w-7xl lg:flex lg:items-center lg:justify-between">
+    <section className="bg-slate-200 pt-32">
+    <div className="mx-auto max-w-7xl lg:flex lg:items-center lg:justify-between">
     <article>
-    <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl py-5">
-      <span class="block">PedroLucas/<span className="block">Portifolio-Junior-Front-End</span></span>
-      <span class="block text-zinc-400	 text-2xl">coding portfolio as I start my journey as junior front-end developer.
+    <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl py-5">
+      <span className="block">PedroLucas/<span className="block">Portifolio-Junior-Front-End</span></span>
+      <span className="block text-zinc-400	 text-2xl">coding portfolio as I start my journey as junior front-end developer.
       </span>
     </h2>
 
@@ -18,7 +18,7 @@ const Sobreme = () =>{
     </p>
     </article>
 
-    <div class="mt-8 flex lg:mt-0 lg:flex-shrink-0 px-10">
+    <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0 px-10">
       <div>
         <a href="#"><img className="rounded-lg h-5/6 shadow" src="https://images.pexels.com/photos/13421439/pexels-photo-13421439.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="rounded-lg" /></a>
       </div>
