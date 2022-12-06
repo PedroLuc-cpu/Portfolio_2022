@@ -2,7 +2,7 @@ import '../Styles/skill.css';
 
 const Conhecimentos = () =>{
     return(
-        <section className="py-40 text-center text-sky-50 text-3xl font-semibold ">
+        <section className="section-main py-40 text-center text-sky-50 text-3xl font-semibold ">
             <h3 className='mt-5'>Minhas Skill e Certificados</h3>
           <section className='flex justify-around items-center'>
           <article className='gap-8 mt-20 ml-10 flex justify-start'>

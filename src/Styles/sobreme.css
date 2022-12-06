@@ -1,0 +1,25 @@
+
+
+.sobreme{
+    background: linear-gradient(rgba(255, 255, 255, 0), rgb(2, 18, 42)),url(https://img.freepik.com/vetores-gratis/fundo-de-tecnologia-de-rede-5g-com-linha-digital-azul_53876-119505.jpg?w=1380&t=st=1670284301~exp=1670284901~hmac=22b7dd0d8bf71424e58edeae449e18d297cd1140432d4b262722880204af70b7) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h2>span{
+    color: #fff;
+    font-size: 1.5em;
+}
+
+.subtext{
+    color:#26ff81
+}
+
+.sobremeTexto{
+    color: #fff;
+}
+
+.img-note{
+    max-width: 500px;
+    margin: 0 auto;
+}
