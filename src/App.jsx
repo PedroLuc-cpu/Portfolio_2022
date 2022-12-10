@@ -41,14 +41,14 @@ const getPokemons = () =>{
       <Contato/>
       <Footer/>
 
-      <section>
+      {/* <section>
         {getApi.map((pokemon, index)=> {
           return(
             <p key={index}>{pokemon.data.name}</p>
           )
         })}
       </section>
-
+ */}
     
       
    </>
