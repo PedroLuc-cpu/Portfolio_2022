@@ -17,7 +17,7 @@ const Contato = () =>{
   
   
   return(
-        <section className="bg-slate-200 flex min-h-full items-center justify-evenly py-12 px-4 sm:px-6 lg:px-8">
+        <section className="section-contato bg-slate-200 flex min-h-full items-center justify-evenly py-12 px-4 sm:px-6 lg:px-8">
             
         <div className="w-full max-w-md space-y-8 drop-shadow-2xl">
           <div>
@@ -101,7 +101,7 @@ const Contato = () =>{
         </div>
 
         <article className='flex'>
-            <h2 className='text-2xl	 font-bold tracking-tight text-slate-900'>Crescer não é evoluir, crescer é ficar maior. Evoluir é ficar melhor.</h2> 
+            <h2 className='frase-effect text-2xl	 font-bold tracking-tight text-slate-900'>Crescer não é evoluir, crescer é ficar maior. Evoluir é ficar melhor.</h2> 
         </article>
       </section>
     )

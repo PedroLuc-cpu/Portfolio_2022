@@ -1,1 +1,12 @@
 
+@media (max-width: 640px){
+    .section-contato{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 1rem;
+    }
+
+    .frase-effect{
+        display: none;
+    }
+}

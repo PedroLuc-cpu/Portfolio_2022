@@ -3,3 +3,12 @@
 .section-main{
     background-color: #02122A;
 }
+
+
+@media (max-width: 640px){
+    .skill-items{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 auto;
+    }
+}

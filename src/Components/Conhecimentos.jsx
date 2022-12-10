@@ -5,7 +5,7 @@ const Conhecimentos = () =>{
         <section className="section-main py-40 text-center text-sky-50 text-3xl font-semibold ">
             <h3 className='mt-5'>Minhas Skill e Certificados</h3>
           <section className='flex justify-around items-center'>
-          <article className='gap-8 mt-20 ml-10 flex justify-start'>
+          <article className='skill-items gap-8 mt-20 ml-10 flex justify-start'>
                 <div className='w-60'>
                     <header className='py-8'><h5 className='text-lg'>React</h5></header>
                     <img className='w-16 m-auto hover:scale-125 hover:ease-out duration-300' src="https://img.icons8.com/plasticine/512/react.png" alt="" />
@@ -33,8 +33,8 @@ const Conhecimentos = () =>{
 
                 </div>
 
-                <div className='w-80'>
-                    <header className='py-8'><h5>Tailwindcss</h5></header>
+                <div className='w-60'>
+                    <header className='py-8'><h5 className='text-lg'>Tailwindcss</h5></header>
                     <img className='w-16 m-auto hover:scale-125 hover:ease-out duration-300' src="https://img.icons8.com/color/512/tailwindcss.png" alt="" />
                     <footer className='py-6'><p className='font-thin text-lg'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, sit.</p></footer>
 
