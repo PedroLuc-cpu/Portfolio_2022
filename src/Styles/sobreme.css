@@ -25,7 +25,7 @@ h2>span{
 }
 
 
-@media(max-width: 640px){
+@media(max-width: 1345px){
     .sobreme{
         padding: 2rem;
     }

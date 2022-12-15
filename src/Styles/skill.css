@@ -5,10 +5,20 @@
 }
 
 
-@media (max-width: 640px){
+/* @media (max-width: 1345px){
     .skill-items{
         display: flex;
         flex-wrap: wrap;
-        margin: 0 auto;
+        background-color: #031633dc;
     }
-}
+
+    .skill-items>div>header{
+        background-color: transparent;
+    }
+    .skill-items footer{
+        background-color: transparent;
+    }
+   
+
+    
+} */

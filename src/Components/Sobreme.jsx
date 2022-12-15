@@ -21,7 +21,7 @@ const Sobreme = () =>{
 
     <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0 px-10">
       <div className='sobreme-perfil'>
-        <a href="#"><img className="img-note rounded-lg h-5/6 shadow" src="https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="rounded-lg" /></a>
+        {/* <a href="#"><img className="img-note rounded-lg h-5/6 shadow" src="https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="rounded-lg" /></a> */}
       </div>
      
     </div>
